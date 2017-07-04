@@ -5,8 +5,6 @@ These notebooks show examples of making REST api calls using the (Github API)[ht
 
 ## Notebooks
 
-1. visualize_github_stargazers.ipynb
-Visualize users (count) that have starred a given respository over time.
+1. visualize_github_stargazers.ipynb :: Visualize users (count) that have starred a given respository over time.
 
-2. map_github_forks.ipynb
-Plot the total number of forks from different locations for a given repo.
+2. map_github_forks.ipynb :: Plot the total number of forks from different locations for a given repo.
